@@ -1,6 +1,5 @@
 package com.example.movieapp
 
-package com.example.movieapp
 
 import android.content.Intent
 import android.os.Bundle
